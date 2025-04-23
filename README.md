@@ -1,5 +1,3 @@
-# README.md
-
 # ChatGPT Enterprise Tools
 
 A collection of tools, prompts, and workflows built around deploying ChatGPT in enterprise environments.
