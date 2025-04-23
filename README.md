@@ -13,5 +13,5 @@ These examples are drawn from real-world experience building AI assistants, supp
 
 ## 👤 Created by
 Timothy Henize – Freelance Generative AI Engineer  
-[LinkedIn](https://www.linkedin.com/in/timothyhenize) | [timothydrew92@gmail.com](mailto:timothydrew92@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/timothy-henize-mha-327a2a163) | [timothydrew92@gmail.com](mailto:timothydrew92@gmail.com)
 """
